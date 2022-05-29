@@ -5,7 +5,7 @@
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=mspronesti&style=square" alt="mspronesti" />
   <a href="https://mspronesti.github.io/">
-    <img src="https://img.shields.io/badge/mspronesti.github.io-0078D4?style=for-the-badge&logo=Google-Chrome&logoColor=00AEFF&labelColor=grey&color=green&style=square">
+<!--     <img src="https://img.shields.io/badge/mspronesti.github.io-0078D4?style=for-the-badge&logo=Google-Chrome&logoColor=00AEFF&labelColor=grey&color=green&style=square"> -->
   </a>
 </h2>
 
