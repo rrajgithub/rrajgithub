@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Massimiliano </h1>
-<h3 align="center">A passionate Computer Science Engineering student from Italy, currently in France </h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rishav Raj </h1>
+<h3 align="center">A passionate Computer Science Engineering student</h3>
 
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=mspronesti&style=square" alt="mspronesti" />
@@ -11,11 +11,11 @@
 
 <!-- <img src='https://github.com/demartini/demartini/blob/master/code.gif' /> -->
 
-- 🎓 I'm currently studying Computer Science Engineering at Polytechnic University of Turin :it:
-- ✈ I'm currently studying Data Science and Engineering at Institut EURECOM as part of a double degree program :fr:
-- 💻  I'm mainly interested in Machine Learning, High-performance computing and Software Engineering. Lately got passionate about Quantum computing.
-- :penguin: Linux and open-source enthusiast
-- 🌱 I'm currently learning Data Science
+- 🎓 I'm currently studying Computer Science Engineering at IIIT Guwahati :it:
+- ✈ I'm currrenbtly :fr:
+- 💻 Interested in Software Engineering, DSA, OOPs and DBMS.
+- :penguin: Linux user.
+- 🌱 Trying to get better
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
