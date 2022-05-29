@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Computer Science Engineering student</h3>
 
 <h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=mspronesti&style=square" alt="mspronesti" />
+  <img src="https://komarev.com/ghpvc/?username=rrajgithub&style=square" alt="rrajgithub" />
   <a href="https://mspronesti.github.io/">
 <!--     <img src="https://img.shields.io/badge/mspronesti.github.io-0078D4?style=for-the-badge&logo=Google-Chrome&logoColor=00AEFF&labelColor=grey&color=green&style=square"> -->
   </a>
