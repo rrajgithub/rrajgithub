@@ -85,9 +85,7 @@
  </a> 
   
 
-  
-  
-
+ 
 </p>
 
 
@@ -103,6 +101,9 @@
 
 ### CodeChef Rating Card - pruvi007
 <img width='50%' src = 'https://pruvi007-apis.herokuapp.com/CC/pruvi007' />
+
+
+
 <!-- 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
