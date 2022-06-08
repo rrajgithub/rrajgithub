@@ -89,7 +89,7 @@
   
 
 </p>
-
+<!-- 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ## Spotify Playing 🎧
@@ -98,7 +98,7 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-### :zap: Recent Activity
+### :zap: Recent Activity -->
 
 <!--START_SECTION:activity-->
 
