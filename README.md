@@ -11,7 +11,7 @@
 
 <!-- <img src='https://github.com/demartini/demartini/blob/master/code.gif' /> -->
 
-- 🎓 I'm currently studying Computer Science Engineering at IIIT Guwahati 🇮🇳:
+- 🎓 I'm currently studying Computer Science Engineering.
 - ✈ I'm currrenbtly 🇮🇳:
 - 💻 Interested in Software Engineering, DSA, OOPs and DBMS.
 - :penguin: Linux user.
