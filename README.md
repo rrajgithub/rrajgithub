@@ -1,6 +1,5 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rishav Raj </h1>
-<h3 align="center">A passionate Computer Science Engineering student</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px">, I'm Rishav Raj </h1>
 
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=rrajgithub&style=square" alt="rrajgithub" />
